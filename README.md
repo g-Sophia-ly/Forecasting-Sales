@@ -6,7 +6,7 @@ This repository contains two machine learning prediction projects:
 
 ---
 
-## 🚗二手车价格预测 | Car Price Prediction
+## 🚗 二手车价格预测 | Car Price Prediction
 
 ### 项目概述 | Project Overview
 本项目通过机器学习模型预测二手车价格，依据车辆品牌、型号、年份、行驶里程以及燃料类型等特征。  
@@ -51,7 +51,7 @@ The best Linear Regression model achieved an R² score of **0.92**, indicating s
 
 ---
 
-## 📈销售预测项目（线性回归模型）  
+## 📈 销售预测项目（线性回归模型）  
 ## Sales Forecasting with Linear Regression
 
 本项目旨在使用线性回归模型对历史销售数据进行时间序列建模与未来销售预测。  
